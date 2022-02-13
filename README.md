@@ -1,9 +1,13 @@
-### Hi there 👋
 ![](/header.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&duration=3500&lines=Web+developer)](https://git.io/typing-svg) 
+  
+---
+- 🌱 I’m currently learning JavaScript, React, React Native
+- 
+ 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casder-succ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-**casder-succ/casder-succ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
