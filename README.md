@@ -2,7 +2,8 @@
 
 - :baby_bottle: I started programming at the age of 14. I began with si,ple programs on Pascal, then I decided that the easiest way to create sea battle and snake games is to make them for the browser. That's how I got into web development.
 - 🌱 I’m currently learning JavaScript, React, React Native
-- :man_student: My education: 1.5 years (for a while) in university as computer scientist And a ton of courses on RSSchool, Coursera
+- :man_student: My education: 2.5 years (for a while) in university as computer scientist And a ton of courses on RSSchool, Coursera
+- :relieved: Now I work at [Paralect](https://www.paralect.com/)
 - :mailbox: How to reach me: [telegram](https://t.me/tinoameinside)
 - 😄 Pronouns: he/him
  
